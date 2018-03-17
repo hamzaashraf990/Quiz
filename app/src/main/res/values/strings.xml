@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assessment</string>
+    <string name="a">Logo</string>
+    <string name="b">For Student</string>
+    <string name="c">First Name:</string>
+    <string name="d">Last Name:</string>
+    <string name="e">Save</string>
+    <string name="f">For Teacher</string>
+    <string name="g">First Name:</string>
+    <string name="h">Last Name:</string>
+    <string name="i">Next</string>
+    <string name="j">Student Ratings</string>
+    <string name="k">Expertise</string>
+    <string name="l">Images</string>
+    <string name="m">Android</string>
+    <string name="n">WEB</string>
+    <string name="o">FIRST NAME</string>
+    <string name="p">LAST NAME</string>
+    <string name="v">FINISH</string>
+</resources>
